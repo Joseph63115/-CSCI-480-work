@@ -1,2 +1,2 @@
 # -CSCI-480-work
-Project
+Repo for Rod Moten's CSCI 490 - work
